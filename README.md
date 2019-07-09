@@ -7,4 +7,4 @@ This repository contains the code to replicate the algorithms and measures in th
 1. ```02_BicycleAlgorithms.ipynb``` --> Deploy the algorithms L2C, L2S, CC, and R2C to grow bicycle networks and calculates the bicycle-car directness.
 1. ```03_Plots.ipynb``` --> Makes the plots with the measures of the algorithms.
 
-The data we used for the analysis is available at Harvard Dataverse.
+The data we used for the analysis is available at [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSOPCK).
