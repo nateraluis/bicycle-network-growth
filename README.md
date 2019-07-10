@@ -1,5 +1,7 @@
 # Developing optimal bicycle network growth strategies
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nateraluis/bicycle-network-growth/master)
+
 This repository contains the code to replicate the algorithms and measures in the paper Natera, L.G., Battiston, F., Iñiguez, G., and Szell, M. *"Developing optimal bicycle network growth strategies"*, 2019.
 
 ## Guide
