@@ -4,6 +4,9 @@
 
 This repository contains the code to replicate the algorithms and measures in the paper [Natera, L.G., Battiston, F., Iñiguez, G., and Szell, M. *"Data-driven strategies for optimal bicycle network growth"*, 2019.](https://arxiv.org/abs/1907.07080)
 
+> [!TIP]
+> This repository contains unmaintained research code. We have developed a user-friendly, packaged, efficient version of the `BicycleAlgorithms` in our [BikeNetKit](https://github.com/BikeNetKit) project: [LinkBikeNet](https://github.com/BikeNetKit/LinkBikeNet)
+
 ## Guide
 1. ```01_Multiplex.ipynb``` --> Takes the multilayer networks for the fifteen different cities and calculates their corresponding overlap census.
 1. ```02_BicycleAlgorithms.ipynb``` --> Deploy the algorithms L2C, L2S, CC, and R2C to grow bicycle networks and calculates the bicycle-car directness.
